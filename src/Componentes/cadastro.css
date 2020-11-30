@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Spartan&display=swap');
+
+* {font-size: 13px;}
+
+.cadastro-form {
+    border: 2px solid #ccc;
+    border-radius: 15px;
+    width: 70vw;
+    padding: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    overflow: hidden;    
+    font-family: "Spartan";
+}
+
+.group {
+    box-shadow: 2px 2px 2px #AAA2;
+    border: 2px solid #ddd;
+    border-radius: 15px;
+    padding: 5px 15px;
+}
